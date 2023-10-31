@@ -947,7 +947,7 @@ The NFTables header designation has the following format:
 
 ```yaml
 targets:
-    newnftables: [nf_address_family] [nf_hook] {default_policy_override} {int: base chain priority} {noverbose}
+    nftables: [nf_address_family] [nf_hook] {default_policy_override} {int: base chain priority} {noverbose}
 ```
 
 Unless otherwise stated, all fields are required unless they're marked optional.
