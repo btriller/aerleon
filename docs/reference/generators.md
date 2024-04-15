@@ -1107,7 +1107,7 @@ targets:
 
 ***
 
-## NSXv
+## NSX-V
 
 ### Header Format
 
@@ -1145,7 +1145,7 @@ targets:
 
 ***
 
-## NSXt
+## NSX-T
 
 ### Header Format
 
